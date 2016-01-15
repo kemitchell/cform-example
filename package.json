@@ -1,0 +1,8 @@
+{
+  "name": "@kemitchell/cform-example",
+  "description": "a Common Form packaged for npm",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "license": "CC0-1.0",
+  "repository": "kemitchell/cform-example"
+}
